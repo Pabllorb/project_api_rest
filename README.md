@@ -23,16 +23,7 @@ Spring Boot DevTools - Desenvolvimento
 
 ## 🏗 Arquitetura do Projeto
 
-projectrest/
-├── src/main/java/com/example/projectrest/
-│   ├── model/          # Entidades JPA
-│   ├── repository/     # Interfaces de persistência
-│   ├── service/        # Lógica de negócio
-│   ├── controller/     # Endpoints REST
-│   └── ProjectrestApplication.java
-├── src/main/resources/
-│   └── application.properties
-└── pom.xml
+<img width="383" height="220" alt="image" src="https://github.com/user-attachments/assets/d8450979-481e-4a50-a15c-8067ffd5cf68" />
 
 ## 📁 Estrutura de Camadas
 
